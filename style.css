@@ -1,0 +1,31 @@
+body{
+    background-color:cornsilk;
+    
+
+}
+
+h1,h2{
+    text-align: center;
+    margin-top:100px;
+}
+h2{
+    margin-top:auto;
+}
+.container {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:inline;
+  }
+#home{
+    padding-left: 0%;
+}
+#navbar{
+    display:grid;
+    grid-template-rows: 1;
+    grid-template-columns: 4fr 4fr 4fr 4fr ;
+    background-color: cadetblue;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
